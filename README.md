@@ -22,8 +22,7 @@ Launch Vagrant VM by running `vagrant up`, you can the log in with `vagrant ssh`
 To load the data, use the command `psql -d news -f newsdata.sql` to connect a database and run the necessary SQL statements.
 
 The database includes three tables:
-- Authors table
-- Articles table
-- Log table
+-how to join the table
+-how to aggregate table
 
 To execute the program, run `python newsdata.py` from the command line.
