@@ -1,20 +1,13 @@
-# logslogs
-Udacity
+### logs Analysis
 
-About this project...
-needed the program...
-vagrant, virtual box, python
+-project of fullstack nanodegree
 
-how to run
-# Logs Analysis
-
-> Dustin D'Avignon
 
 ## About this project
 
 This is the first project for the Udacity Full Stack Nanodegree. In this project, a large database with over a million rows is explored by building complex SQL queries to draw business conclusions for the data. The project mimics building an internal reporting tool for a newpaper site to discover what kind of articles the site's readers like. The database contains newspaper articles, as well as the web server log for the site.
 
-## To Run
+## Needed the program
 
 Python3
 Vagrant
